@@ -16,6 +16,7 @@ tagline = "A clean-room reimplementation of Paint.NET"
 publisher = "daijro"
 bundle_id = "org.paint-rs.paint"   # CFBundleIdentifier in upstream's Info.plist
 website = "https://github.com/daijro/paint.rs"
+web_demo = "https://playground.daijro.dev/paint-rs/"   # playground.daijro.dev's build of the latest release
 color = "#f74c00"
 
 # Upstream's only icon (assets/app-icon.png) is 1024 px, over the launcher's 512 px limit; icon.png
